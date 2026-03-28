@@ -179,7 +179,7 @@ git pull origin main       # Resolve conflitos agora para não dar erro no PR
 ```bash
 git push origin nome-da-sua-branch
 ```
-Vá ao GitHub e abra o [**Pull Request**](#-8-pull-request-pr-a-hora-da-revisão).
+Vá ao GitHub e abra o [**Pull Request**](#8-pull-request-pr-a-hora-da-revisão).
 <br>
 
 ### 6. Limpeza (Pós-Merge)
