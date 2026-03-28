@@ -14,8 +14,6 @@ Guia criado por [@guiledo](https://github.com/guiledo) para instruir meus colega
 
 ---
 
-<br>
-
 ## 1. O que é o Git? (E por que ele salva vidas) 📥
 
 Imagine que você está escrevendo um TCC. Você cria o arquivo `projeto.doc`, depois `projeto_final.doc`, depois `projeto_final_agora_vai.doc`. No código, isso seria um caos.
@@ -48,8 +46,6 @@ O **Git** é um sistema que tira "fotos" (snapshots) do seu projeto. Se você ap
 
 ---
 
-<br>
-
 ## 2. Criando sua Identidade no GitHub 🌐
 
 O **GitHub** é como uma "rede social" para programadores, mas com um propósito maior: hospedar seus códigos na nuvem para que outros possam colaborar ou para que você tenha um backup seguro.
@@ -61,8 +57,6 @@ O **GitHub** é como uma "rede social" para programadores, mas com um propósito
 <br>
 
 ---
-
-<br>
 
 ## 3. Dizendo ao Git quem você é (Configuração Global) ⚙️
 
@@ -80,8 +74,6 @@ git config --global user.email "seu-email@exemplo.com"
 <br>
 
 ---
-
-<br>
 
 ## 4. O "Aperto de Mão" Seguro (Chave SSH) 🔑
 
@@ -120,8 +112,6 @@ Agora precisamos copiar o conteúdo da chave para "colar" no site do GitHub.
 
 ---
 
-<br>
-
 ## 5. Trazendo um Projeto para sua Máquina (Clone) 🖇️
 
 Clonar é o ato de baixar um repositório que já existe no GitHub para o seu computador pela primeira vez.
@@ -138,8 +128,6 @@ Clonar é o ato de baixar um repositório que já existe no GitHub para o seu co
 
 ---
 
-<br>
-
 ## 6. O Ciclo de Trabalho (Entendendo os Comandos) 🧙‍♂️
 
 Sempre que você altera o código, você segue um ciclo. Imagine que você está enviando uma encomenda pelo correio:
@@ -153,8 +141,6 @@ Sempre que você altera o código, você segue um ciclo. Imagine que você está
 
 ---
 
-<br>
-
 ## 7. Branches: Trabalhando sem Medo de Quebrar 🌿
 
 Branches (ramos) são como "universos paralelos". Você cria uma branch para fazer uma tarefa. Se der tudo errado, a versão principal (`main`) continua intacta e segura.
@@ -166,8 +152,6 @@ Branches (ramos) são como "universos paralelos". Você cria uma branch para faz
 <br>
 
 ---
-
-<br>
 
 ## 8. Pull Request (PR): A Hora da Revisão 🤝
 
@@ -181,9 +165,7 @@ O **Pull Request** é o momento em que você avisa ao time: "Terminei minha part
 
 ---
 
-<br>
-
-## 💼 Workflow Profissional (Elite)
+## 💼 Workflow Profissional
 
 Este é o padrão de ouro seguido nas melhores empresas do mundo. Memorize este ciclo:
 
