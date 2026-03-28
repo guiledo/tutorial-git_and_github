@@ -7,7 +7,7 @@ Guia criado por [@guiledo](https://github.com/guiledo) para instruir colegas de 
 ### 📑 Resumo do Guia                                                                                        
   *   **Tópicos 1 a 5:** Tudo sobre a preparação e configuração inicial (instalação, conta, SSH e clonagem).   
   *   **Tópicos 6 a 8:** As operações básicas e o dia a dia utilizando a ferramenta.
-  *   **Seção Workflow Profissional:** Fluxo de trabalho com Git/GitHub utilizado em ambientes profissionais.
+  *   **Seção 💼 Workflow Profissional:** Fluxo de trabalho com Git/GitHub utilizado em ambientes profissionais.
 
 <br>
 
@@ -152,8 +152,6 @@ O **Pull Request** é o momento em que você avisa ao time: "Terminei minha part
 
 ---
 
-<br>
-
 ## 💼 Workflow Profissional
 
 Este é o padrão de ouro seguido nas melhores empresas do mundo. Memorize este ciclo:
@@ -219,8 +217,6 @@ git branch -d feature/nome-da-sua-tarefa  # Apaga a branch antiga para não polu
 
 ---
 
-<br>
-
 ### 🏆 Dicas de Ouro
 
 - **Errou o comando?** O terminal geralmente te dá uma dica do comando certo logo abaixo do erro. Leia com atenção!
@@ -230,8 +226,6 @@ git branch -d feature/nome-da-sua-tarefa  # Apaga a branch antiga para não polu
 <br>
 
 ---
-
-<br>
 
 🚀 Caso tenha algum problema ou dúvida ao longo do guia, contate-me em:
 
