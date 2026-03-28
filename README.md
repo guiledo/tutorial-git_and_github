@@ -4,10 +4,6 @@ Guia criado por [@guiledo](https://github.com/guiledo) para instruir meus colega
 
 <br>
 
----
-
-<br>
-
 > 📍 **Acesso Rápido:** Se você já configurou tudo e busca apenas o guia de consulta para o dia a dia, pule para a seção: [💼 Workflow Profissional](#-workflow-profissional-elite).
 
 <br>
