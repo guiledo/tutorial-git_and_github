@@ -1,6 +1,6 @@
 # 🎓 Guia Básico Git & GitHub
 
-Guia criado por [@guiledo](https://github.com/guiledo) para instruir meus colegas de faculdade no conteúdo básico sobre a utilização das ferramentas Git e GitHub.
+Guia criado por [@guiledo](https://github.com/guiledo) para instruir meus colegas de faculdade no básico da utilização das ferramentas Git e GitHub.
 
 <br>
 
