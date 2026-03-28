@@ -111,7 +111,7 @@ Clonar é o ato de baixar um repositório que já existe no GitHub para o seu co
 Sempre que você altera o código, você segue um ciclo. Imagine que você está enviando uma encomenda pelo correio:
 
 1. **`git pull`**: Antes de tudo, você verifica se chegou algo novo para você. Isso evita que você tente enviar algo baseado em uma versão antiga do projeto.
-2. **`git add .`**: Você coloca seus arquivos alterados dentro da "caixa" de envio. O ponto (`.`) diz: "pegue tudo que eu mexi".
+2. **`git add .`**: Você coloca seus arquivos alterados dentro da "caixa" de envio. O ponto (`.`) diz: "pegue tudo que eu mexi dentro do diretório atual".
 3. **`git commit -m "mensagem"`**: Você lacra a caixa e escreve um bilhete do lado de fora explicando o que tem dentro (ex: "ajusta a cor do cabeçalho").
 4. **`git push`**: Você entrega a caixa no balcão do correio para que ela seja enviada para o servidor (GitHub).
 <br>
