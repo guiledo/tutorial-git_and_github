@@ -125,7 +125,7 @@ Branches (ramos) são como "universos paralelos". Você cria uma branch para faz
 - **Para ver onde você está:** `git branch` (a branch com um asterisco `*` é a que você está usando).
 <br>
 
-## 8. Pull Request (PR): A Hora da Revisão 🤝
+## <a id="passo-8"></a>8. Pull Request (PR): A Hora da Revisão 🤝
 
 O **Pull Request** é o momento em que você avisa ao time: "Terminei minha parte na minha branch, podem dar uma olhada e colocar na versão principal?".
 
@@ -179,7 +179,7 @@ git pull origin main       # Resolve conflitos agora para não dar erro no PR
 ```bash
 git push origin nome-da-sua-branch
 ```
-Vá ao GitHub e abra o [**Pull Request**](#8-pull-request-pr-a-hora-da-revisão).
+Vá ao GitHub e abra o [**Pull Request**](#passo-8).
 <br>
 
 ### 6. Limpeza (Pós-Merge)
