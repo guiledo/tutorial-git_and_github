@@ -1,10 +1,10 @@
-# 🎓 Guia Completo: Dominando Git & GitHub (do Zero ao Profissional)
+# 🎓 Guia Básico Git & GitHub
 
-Bem-vindo(a) à sua primeira grande ferramenta como desenvolvedor(a)! Este guia não é apenas uma lista de comandos; é um roteiro para você entender **como** e **por que** o controle de versão é o coração do desenvolvimento de software moderno.
+Guia criado por [@guiledo](https://github.com/guiledo) para instruir meus colegas de faculdade no conteúdo básico sobre a utilização das ferramentas Git e GitHub. 
 
 ---
 
-> 📍 **Acesso Rápido:** Se você já configurou tudo e busca apenas o guia de consulta para o dia a dia, pule para a seção: [💼 Workflow Profissional (Elite)](#-workflow-profissional-elite).
+> 📍 **Acesso Rápido:** Se você já configurou tudo e busca apenas o guia de consulta para o dia a dia, pule para a seção: [💼 Workflow Profissional](#-workflow-profissional-elite).
 
 ---
 
@@ -38,8 +38,7 @@ O **GitHub** é como uma "rede social" para programadores, mas com um propósito
 
 1. Acesse [github.com](https://github.com/).
 2. Clique em **Sign up** (Cadastrar).
-3. **Dica de Carreira:** Escolha um nome de usuário (username) limpo e profissional (ex: `joao-silva` ou `jsilvadev`). Este link estará no seu currículo em breve!
-4. Siga as instruções de e-mail e senha. Não esqueça de validar seu e-mail na caixa de entrada após o cadastro.
+3. Siga as instruções de e-mail e senha. Não esqueça de validar seu e-mail na caixa de entrada após o cadastro.
 
 ---
 
@@ -177,6 +176,10 @@ git branch -d feature/nome-da-sua-tarefa  # Apaga a branch antiga para não polu
 ### 🏆 Dicas de Ouro para o Aluno
 - **Errou o comando?** O terminal geralmente te dá uma dica do comando certo logo abaixo do erro. Leia com atenção!
 - **Commit Atômico:** Quanto menor o commit, mais fácil é de entender e de consertar se algo der errado.
-- **Mensagens Claras:** "Ajusta margem" é melhor que "Ajustes" ou "Finalizado".
+- **Mensagens Claras:** "Ajuste da margem da hero page" é melhor que "Ajustes" ou "Finalizado".
 
-Parabéns! Você agora tem em mãos o guia definitivo para iniciar sua carreira com as melhores práticas de Git e GitHub. 🚀
+---
+
+🚀 Caso tenha algum problema ou dúvida ao longo do guia, contate-me em: 
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511980904699) 
