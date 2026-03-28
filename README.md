@@ -8,7 +8,7 @@ Guia criado por [@guiledo](https://github.com/guiledo) para instruir colegas de 
   *   **Seção 💼 Workflow Profissional:** Fluxo de trabalho com Git/GitHub utilizado em ambientes profissionais.
 <br>
 
-> 📍 **Acesso Rápido:** Se você já configurou tudo e busca apenas o guia de consulta para o dia a dia, pule para a seção: [💼 Workflow Profissional](#-workflow-profissional).
+> 📍 **Acesso Rápido:** Se você já configurou tudo e busca apenas o guia de consulta para o dia a dia profissional, pule para a seção: [💼 Workflow Profissional](#-workflow-profissional).
 <br>
 
 ## 1. O que é o Git? (E por que ele salva vidas) 📥
