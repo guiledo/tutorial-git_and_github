@@ -1,6 +1,7 @@
 # 🎓 Guia Básico Git & GitHub
 
 <br>
+
 ### 📑 Resumo do Guia                                                                                        
   *   **Tópicos 1 a 5:** Tudo sobre a preparação e configuração inicial (instalação, conta, SSH e clonagem).   
   *   **Tópicos 6 a 8:** As operações básicas e o dia a dia utilizando a ferramenta.
