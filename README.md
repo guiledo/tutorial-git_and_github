@@ -8,8 +8,6 @@ Guia criado por [@guiledo](https://github.com/guiledo) para instruir meus colega
 
 <br>
 
----
-
 ## 1. O que é o Git? (E por que ele salva vidas) 📥
 
 Imagine que você está escrevendo um TCC. Você cria o arquivo `projeto.doc`, depois `projeto_final.doc`, depois `projeto_final_agora_vai.doc`. No código, isso seria um caos.
@@ -40,8 +38,6 @@ O **Git** é um sistema que tira "fotos" (snapshots) do seu projeto. Se você ap
 
 <br>
 
----
-
 ## 2. Criando sua Identidade no GitHub 🌐
 
 O **GitHub** é como uma "rede social" para programadores, mas com um propósito maior: hospedar seus códigos na nuvem para que outros possam colaborar ou para que você tenha um backup seguro.
@@ -51,8 +47,6 @@ O **GitHub** é como uma "rede social" para programadores, mas com um propósito
 3. Siga as instruções de e-mail e senha. Não esqueça de validar seu e-mail na caixa de entrada após o cadastro.
 
 <br>
-
----
 
 ## 3. Dizendo ao Git quem você é (Configuração Global) ⚙️
 
@@ -68,8 +62,6 @@ git config --global user.email "seu-email@exemplo.com"
 > **Atenção:** Use o **mesmo e-mail** que você usou para criar a conta no GitHub!
 
 <br>
-
----
 
 ## 4. O "Aperto de Mão" Seguro (Chave SSH) 🔑
 
@@ -106,8 +98,6 @@ Agora precisamos copiar o conteúdo da chave para "colar" no site do GitHub.
 
 <br>
 
----
-
 ## 5. Trazendo um Projeto para sua Máquina (Clone) 🖇️
 
 Clonar é o ato de baixar um repositório que já existe no GitHub para o seu computador pela primeira vez.
@@ -122,8 +112,6 @@ Clonar é o ato de baixar um repositório que já existe no GitHub para o seu co
 
 <br>
 
----
-
 ## 6. O Ciclo de Trabalho (Entendendo os Comandos) 🧙‍♂️
 
 Sempre que você altera o código, você segue um ciclo. Imagine que você está enviando uma encomenda pelo correio:
@@ -135,8 +123,6 @@ Sempre que você altera o código, você segue um ciclo. Imagine que você está
 
 <br>
 
----
-
 ## 7. Branches: Trabalhando sem Medo de Quebrar 🌿
 
 Branches (ramos) são como "universos paralelos". Você cria uma branch para fazer uma tarefa. Se der tudo errado, a versão principal (`main`) continua intacta e segura.
@@ -146,8 +132,6 @@ Branches (ramos) são como "universos paralelos". Você cria uma branch para faz
 - **Para ver onde você está:** `git branch` (a branch com um asterisco `*` é a que você está usando).
 
 <br>
-
----
 
 ## 8. Pull Request (PR): A Hora da Revisão 🤝
 
@@ -160,6 +144,8 @@ O **Pull Request** é o momento em que você avisa ao time: "Terminei minha part
 <br>
 
 ---
+
+<br>
 
 ## 💼 Workflow Profissional
 
@@ -241,7 +227,5 @@ git branch -d feature/nome-da-sua-tarefa  # Apaga a branch antiga para não polu
 <br>
 
 🚀 Caso tenha algum problema ou dúvida ao longo do guia, contate-me em:
-
-<br>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511980904699)
