@@ -4,6 +4,13 @@ Guia criado por [@guiledo](https://github.com/guiledo) para instruir colegas de 
 
 <br>
 
+### 📑 Resumo do Guia                                                                                        
+  *   **Tópicos 1 a 5:** Tudo sobre a preparação e configuração inicial (instalação, conta, SSH e clonagem).   
+  *   **Tópicos 6 a 8:** As operações básicas e o dia a dia utilizando a ferramenta.
+  *   **Seção Workflow Profissional:** Fluxo de trabalho com Git/GitHub utilizado em ambientes profissionais.
+
+<br>
+
 > 📍 **Acesso Rápido:** Se você já configurou tudo e busca apenas o guia de consulta para o dia a dia, pule para a seção: [💼 Workflow Profissional](#-workflow-profissional).
 
 <br>
